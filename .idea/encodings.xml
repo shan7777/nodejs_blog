@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/db.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/post.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/user.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/users.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/settings.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/error.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/footer.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/header.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/index.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/login.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/posts.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/reg.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/say.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/user.ejs" charset="UTF-8" />
+  </component>
+</project>
